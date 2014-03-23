@@ -36,5 +36,6 @@
     + *Note*: Your VM must also be running via `vagrant up`
 
   + Execute `cd /vagrant`
+  + Next execute `sudo chmod 777 scripts/debian-wheezy-lamp-install`
   + Run `sudo scripts/debian-wheezy-lamp-install`
     + Note you will be prompted to enter in a password for your mysql install, use `root`
