@@ -28,10 +28,3 @@
   + Once your repository has finished cloning, execute the following:
     + `vagrant up`
       + Your VM will be downloaded to your machine, and then it will be booted
-
-  I. hello
-  II. you fucking
-  III. cocksucking
-  IV. motherfuckers
-  V. i love penis
-
