@@ -2,9 +2,13 @@
 
 ## Prerequisites
 
-  + Virtualbox
+  + *Virtualbox*
     + Choose the appropriate download for your operating system here:
       + `https://www.virtualbox.org/wiki/Downloads`
+
+  + *Vagrant*
+    + Choose the appropriate download for your operating system here:
+      + `http://www.vagrantup.com/downloads.html`
 
 ## Installation
 
