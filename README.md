@@ -23,9 +23,14 @@
 
 #### Booting Up Your VM
 
-*Note* - Virtualbox and vagrant must be installed.
+*Note* - Virtualbox and Vagrant must be installed.
 
   + Once your repository has finished cloning, execute the following:
     + `vagrant up`
       + Your VM will be downloaded to your machine, and then it will be booted
+
+  I. hello
+  II. you fucking
+  III. cocksucking
+  IV. motherfuckers
 
