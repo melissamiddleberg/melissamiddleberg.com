@@ -18,3 +18,7 @@
       + `git clone https://github.com/melissamiddleberg/melissamiddleberg.com.git`
         + you will be prompted for your github username and password
 
+  + Once your repository has finished cloning, execute the following:
+    + `vagrant up`
+      + Your VM will be downloaded to your machine, and then it will be booted
+
