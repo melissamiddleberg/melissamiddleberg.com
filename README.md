@@ -42,3 +42,15 @@
   + Verifying install:
     + Point your browser to `http://192.168.33.10/info.php`
       + You should see something with the PHP logo and `PHP Version 5.4.4-14+deb7u8` in the title
+
+#### Installing vsftpd
+
+  + Execute `sudo apt-get install vsftpd`
+
+  + Now we need to edit the config filed to allow local user access, as well as make the folder writable
+
+  + The config file is located in `/etc/vsftpd.conf`
+    + Open it with your favorite text editor
+    + Change `anonymous_enable=NO` to `anonymous_enable=YES`
+    + Uncomment `local_enable=YES`
+    + Uncomment `write_enable=YES`
