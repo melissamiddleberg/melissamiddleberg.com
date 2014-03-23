@@ -28,3 +28,8 @@
   + Once your repository has finished cloning, execute the following:
     + `vagrant up`
       + Your VM will be downloaded to your machine, and then it will be booted
+
+##### Installing lamp on your VM
+
+  + Execute `vagrant ssh` and you will now be in your VM.
+    + *Note*: You must be in the directory with your Vagrantfile.
