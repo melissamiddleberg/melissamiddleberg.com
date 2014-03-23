@@ -38,4 +38,7 @@
   + Execute `cd /vagrant`
   + Next execute `sudo chmod 777 scripts/debian-wheezy-lamp-install`
   + Run `sudo scripts/debian-wheezy-lamp-install`
-    + Note you will be prompted to enter in a password for your mysql install, use `root`
+    + *Note*: you will be prompted to enter in a password for your mysql install, use `root`
+  + Verifying install:
+    + Point your browser to `http://192.168.33.10/info.php`
+      + You should see something with the PHP logo and `PHP Version 5.4.4-14+deb7u8` in the title
