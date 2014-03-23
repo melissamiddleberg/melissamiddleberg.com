@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+apt-get update
+
+apt-get install apache2 mysql-server php5 php-pear php5-mysql -y
+
+echo -e "<?php phpinfo(); ?>" > /var/www/info.php
