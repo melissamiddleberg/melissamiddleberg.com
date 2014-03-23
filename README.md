@@ -13,10 +13,17 @@
 ## Installation
 
   + Open your terminal
+
+#### Cloning Your Repository to Your Local Machine
+
   + execute `git clone git@github.com:melissamiddleberg/melissamiddleberg.com.git`
     + Note if you do not have your ssh key added to github execute the following:
       + `git clone https://github.com/melissamiddleberg/melissamiddleberg.com.git`
         + you will be prompted for your github username and password
+
+#### Booting Up Your VM
+
+*Note* - Virtualbox and vagrant must be installed.
 
   + Once your repository has finished cloning, execute the following:
     + `vagrant up`
